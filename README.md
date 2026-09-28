@@ -2,8 +2,8 @@
 
 ## Aluna
 
-Yasmin Aparecida Souza de Paula  
-RA: 32612974  
+Maria Luísa do Carmo Cardoso
+RA: 325116932  
 Centro Universitário UNA
 
 ## Descrição
