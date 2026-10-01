@@ -1,9 +1,8 @@
 # Gamer Profile - Testes Unitários com xUnit
 
-## Aluna
-
-Maria Luísa do Carmo Cardoso
-RA: 325116932  
+## Aluno
+Cauã Parreiras Vieira
+RA: 32516918
 Centro Universitário UNA
 
 ## Descrição
